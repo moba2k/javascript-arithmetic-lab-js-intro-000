@@ -17,13 +17,16 @@ function divide (a , b) {
 }
 
 var n = 40;
-
 function inc(n) {
   return n = n + 1;
 }
 
 var n = 13;
-
 function dec(n) {
   return n = n - 1;
+}
+
+var n=13;
+function makeInt(n) {
+  parseInt (n);
 }
